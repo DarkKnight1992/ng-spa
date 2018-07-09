@@ -1,0 +1,23 @@
+menu-root {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+}
+
+home-root,
+app1-root {
+    margin-top: 70px;
+    display: block;
+}
+
+help-root {
+    position: absolute;
+    top: 64px;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+    min-width: 350px;
+    max-width: 800px;
+}
